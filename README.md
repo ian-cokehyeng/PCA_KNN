@@ -30,6 +30,6 @@ Replace `<env_name>` with the name of the Conda environment specified above. Thi
 
 ## Contributors
 
-The following individuals who have contributed to this project:
+The following individuals have contributed to this project:
 
 - Ian CoKehyeng
